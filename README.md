@@ -13,22 +13,16 @@
 ## 🚀 What I Do
 - ⚡ Build **secure & scalable backends** (Java Spring, Golang)  
 - 🔐 Expertise in **PKI, IAM/SSO, Digital Signatures, Cryptography**  
-- 📊 Focused on **QA, load testing, observability (k6, JMeter, Prometheus, Grafana)**  
+- 📊 Strong in **QA, load testing, observability (k6, JMeter, Prometheus, Grafana)**  
 - ☁️ Exploring **Cloud (GCP) & modern architectures**  
 
 ---
 
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+## 🛠️ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,go,docker,postgres,redis,gcp,git,linux,graphql" /><br/>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,prometheus,grafana" />
+</p>
 
 ---
 
@@ -40,10 +34,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bicilique&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bicilique&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bicilique&theme=algolia&margin-w=15&margin-h=15&no-frame=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bicilique/bicilique/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
