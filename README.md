@@ -1,89 +1,52 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Afif Faizianur</h1>
-<h3 align="center">Software Developer | Backend Engineer | Cybersecurity Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Afif Faizianur</h1>
+<h3 align="center">Backend Developer | Security Engineer | Cloud Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:afiffff@gmail.com"><img src="https://img.shields.io/badge/Email-afiffff%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/afif-faizianur"><img src="https://img.shields.io/badge/LinkedIn-Afif%20Faizianur-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/bicilique"><img src="https://img.shields.io/badge/GitHub-bicilique-black?style=for-the-badge&logo=github"></a>
-  <a href="https://medium.com/@afiffaizianur"><img src="https://img.shields.io/badge/Medium-afiffaizianur-000000?style=for-the-badge&logo=medium"></a>
+  <a href="mailto:afiffff@gmail.com"><img src="https://img.shields.io/badge/Email-afiffff%40gmail.com-red?style=flat&logo=gmail"></a>
+  <a href="https://linkedin.com/in/afif-faizianur"><img src="https://img.shields.io/badge/LinkedIn-afif--faizianur-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/bicilique"><img src="https://img.shields.io/badge/GitHub-bicilique-black?style=flat&logo=github"></a>
+  <a href="https://medium.com/@afiffaizianur"><img src="https://img.shields.io/badge/Medium-afiffaizianur-000000?style=flat&logo=medium"></a>
 </p>
 
 ---
 
-## 👨‍💻 Profile
-I specialize in **building secure, scalable, and reliable applications** with a strong focus on:  
-- ⚡ **Backend Development** → Java (Spring, WebFlux, JavaFX), Golang  
-- 🔐 **Security Engineering** → PKI, Digital Signatures, IAM/SSO, Cryptography  
-- 📊 **Quality & Performance** → QA automation, k6, JMeter, Prometheus, Grafana  
-- ☁️ **Cloud & Modern Architecture** → GCP, Docker, CI/CD, microservices  
+## 🚀 What I Do
+- ⚡ Build **secure & scalable backends** (Java Spring, Golang)  
+- 🔐 Expertise in **PKI, IAM/SSO, Digital Signatures, Cryptography**  
+- 📊 Focused on **QA, load testing, observability (k6, JMeter, Prometheus, Grafana)**  
+- ☁️ Exploring **Cloud (GCP) & modern architectures**  
 
 ---
 
-## 🧠 Expertise & Skills
-
-### 🔹 Programming & Backend
-- **Java (Spring Boot, WebFlux, JavaFX)**  
-- **Go (Golang)**  
-- **API Development & Integration**  
-- **Microservices Architecture**
-
-### 🔹 Security & Cryptography
-- **Public Key Infrastructure (PKI)**, Digital Certificates  
-- **Identity & Access Management (OAuth2, Ory Network, Supertokens)**  
-- **Hardware Security Modules (HSM)**  
-- **SIEM, IDS/IPS (Snort, Suricata)**  
-- **Malware Analysis & Incident Response**
-
-### 🔹 Databases & Infrastructure
-- PostgreSQL, MySQL/MariaDB, Redis  
-- Docker & Docker Compose  
-- Git, CI/CD pipelines  
-- Object Storage (MinIO, S3-compatible)
-
-### 🔹 QA & Observability
-- Load Testing: **k6, JMeter**  
-- Monitoring: **Prometheus, Grafana**  
-- API Testing: **Postman, Swagger**  
-
-### 🔹 Cloud
-- **Google Cloud Platform (GCP)** – AI/ML, Infra, Security in Cloud  
-- Containerization & Cloud-Native Deployment  
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ---
 
-## 🚀 Selected Projects
-- 📄 **Esign Client Service** → Digital signing & PDF verification backend.  
-- 🖥️ **Besign Desktop** → JavaFX desktop app for secure signing/verification.  
-- 🔐 **Digital Signature Core Services** → PKI-based digital signature lifecycle system.  
-- 🔑 **Simple SSO** → Ready-to-deploy Identity & Access Management (IAM) service.  
-- 🔍 **Subdomain Scanner** → Automated recon with Amass, Subfinder, dnsx, etc.  
+## 🌟 Highlights
+- 🖥️ **Esign Client Service** → Secure digital signing backend  
+- 🖋️ **Besign Desktop** → PDF signing/verification desktop app  
+- 🔑 **Simple SSO** → Deploy-ready IAM & OAuth2 service with Ory Network  
+- 🔍 **Subdomain Scanner** → Recon automation with Amass, Subfinder, dnsx  
 
 ---
 
-## 📚 Certifications
-- 🎓 EC-Council **Certified Incident Handler (ECIH)**  
-- 🎓 International CyberSecurity Institute, UK – **Network Security Specialist (CNSS)**  
-- 🎓 GCP Season 10 – **AI/ML, Infra & Security in Cloud**  
-- 🎓 SANS **SEC401: Network Security** | **SEC503: Intrusion Detection in Depth**  
-
----
-
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bicilique&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bicilique&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bicilique&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bicilique&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 🌍 Connect with Me
-📧 **afiffff@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/afif-faizianur)  
-✍️ [Medium](https://medium.com/@afiffaizianur)  
-💻 [GitHub](https://github.com/bicilique)  
-
----
-
-⭐ *Focused on **security, backend engineering, and cloud-native solutions** — always open for collaboration and impactful projects.*
-
+## 🌍 Connect
+📧 **afiffff@gmail.com** | 🔗 [LinkedIn](https://linkedin.com/in/afif-faizianur) | ✍️ [Medium](https://medium.com/@afiffaizianur)  
